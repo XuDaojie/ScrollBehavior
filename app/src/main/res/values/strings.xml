@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ScrollBehavior</string>
+    <string name="footer_behavior" translatable="false">io.github.xudaojie.behavior.FooterBehavior</string>
 </resources>
